@@ -1,0 +1,15 @@
+# Установщики и артефакты сборки — только в GitHub Releases, не в git
+*.exe
+*.msi
+*.blockmap
+dist/
+win-unpacked/
+node_modules/
+
+# Временные и локальные
+.DS_Store
+Thumbs.db
+*.log
+
+# Рингтон — крупный бинарник; прикреплять к Release вручную (опционально)
+# *.mp3
