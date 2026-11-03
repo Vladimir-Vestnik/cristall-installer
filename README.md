@@ -4,7 +4,7 @@
 
 Установочные файлы публикуются на странице [Releases](https://github.com/Vladimir-Vestnik/cristall-installer/releases).
 
-Откройте выпуск с наибольшим номером версии и скачайте файл:
+Откройте самый новый выпуск линейки `0.1.x` и скачайте файл:
 
 ```text
 Cristall-ElectronBuilder-Setup-*.exe
