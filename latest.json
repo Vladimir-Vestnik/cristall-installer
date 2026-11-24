@@ -1,6 +1,6 @@
 {
-  "version": "0.1.8",
-  "patchUrl": "https://github.com/Vladimir-Vestnik/cristall-installer/releases/download/v0.1.8/Cristall-ElectronBuilder-Setup-0.1.8.exe",
-  "sha256": "2f769c12248fd5e0080f211d57ccdc4f3587503e12b2b460795ec5e6d0aebce1",
-  "notes": "Версия 0.1.8"
+  "version": "0.1.9",
+  "patchUrl": "https://github.com/Vladimir-Vestnik/cristall-installer/releases/download/v0.1.9/Cristall-ElectronBuilder-Setup-0.1.9.exe",
+  "sha256": "ee248d99fb2d177b02352642c1614a830a5cfd61e9e65faf9b0416931022787e",
+  "notes": "Версия 0.1.9"
 }
